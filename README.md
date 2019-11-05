@@ -13,3 +13,7 @@ i.) predict campus, branch based on the bitsat score.
 ii.)checks available branch in a specified campus.
 iii.)predict branch based on the bitsat score ranges.
 iv.) displays previous year info for given branch/campus.
+
+Complexity:O(m*n)..
+       m---- number of campuses..
+       n---- number of available branches.
